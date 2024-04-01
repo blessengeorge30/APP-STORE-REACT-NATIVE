@@ -41,7 +41,7 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
 
 
 
-  <a href="https://https://blessengeorge.netlify.app/">
+  <a href="https://blessengeorge.netlify.app/">
     <img style="margin: 0 10px;" alt="Icon 2" title="Icon 2" src="https://cdn.pixabay.com/photo/2017/07/03/15/20/technology-2468063_1280.png" width="100" height="50"/>
   </a>
 
