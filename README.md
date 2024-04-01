@@ -35,15 +35,15 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
 
 <p style="display: flex; align-items: center;" align="left">
   <a href="https://www.linkedin.com/in/blessen-george-9360a9220/">
-    <img alt="Linked In" title="Linked-In" src="https://cdn.pixabay.com/photo/2015/07/13/07/33/icons-842861_1280.png" width="100" height="100"/>
+    <img alt="Linked In" title="Linked-In" src="https://cdn.pixabay.com/photo/2015/07/13/07/33/icons-842861_1280.png" width="50" height="50"/>
   </a>
 
   <a href="https://example.com">
-    <img style="margin: 0 10px;" alt="Icon 2" title="Icon 2" src="https://cdn.pixabay.com/photo/2015/07/13/07/33/icons-842861_1280.png" width="100" height="100"/>
+    <img style="margin: 0 10px;" alt="Icon 2" title="Icon 2" src="https://cdn.pixabay.com/photo/2015/07/13/07/33/icons-842861_1280.png" width="50" height="50"/>
   </a>
 
   <a href="https://example.com">
-    <img style="margin: 0 10px;" alt="Icon 3" title="Icon 3" src="https://cdn.pixabay.com/photo/2015/07/13/07/33/icons-842861_1280.png" width="100" height="100"/>
+    <img style="margin: 0 10px;" alt="Icon 3" title="Icon 3" src="https://cdn.pixabay.com/photo/2015/07/13/07/33/icons-842861_1280.png" width="50" height="50"/>
   </a>
 </p>
 
