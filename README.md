@@ -39,7 +39,7 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
   </a>
 
   <a href="https://example.com">
-    <img alt="Icon 2" title="Icon 2" src="https://cdn.pixabay.com/photo/2015/07/13/07/33/icons-842861_1280.png" width="100" height="100" style="margin-left: 20px; margin-right: 20px;"/>
+    <img alt="Icon 2" title="Icon 2" src="https://cdn.pixabay.com/photo/2015/07/13/07/33/icons-842861_1280.png" width="100" height="100" style="margin-left: 50px; margin-right: 50px;"/>
   </a>
 
   <a href="https://example.com">
