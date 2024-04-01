@@ -35,8 +35,8 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
 
 
 <p align="left">
-  
-  <a href="https://twitter.com/code_with_nomi"><img alt="Twitter" title="Twitter" src="https://cdn.pixabay.com/photo/2015/07/13/07/33/icons-842861_1280.png"/></a>
+  <a href="https://twitter.com/code_with_nomi">
+    <img alt="Twitter" title="Twitter" src="https://cdn.pixabay.com/photo/2015/07/13/07/33/icons-842861_1280.png" width="100" height="100"/>
+  </a>
 </p>
-
 <a href="https://www.buymeacoffee.com/syednoman">☕ Buy me a coffee</a>
