@@ -171,7 +171,7 @@ export default function StoreScreen() {
                   return (
                     <TouchableOpacity 
                     style={{backgroundColor: bg}}
-                    className="mx-4 p-2 mb-2 flex-row rounded-3xl"
+                    className="mx-4 p-2 mb-2 flex-row rounded-2xl"
                     onPress={()=> setSelectedGame(game.id)}
                     key={index}>
                       <Image source={game.image} style={{width: 80, height: 80}}
