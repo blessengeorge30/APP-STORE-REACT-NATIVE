@@ -134,7 +134,7 @@ export default function StoreScreen() {
                 <Text
                   style={{color: storeColors.text}}
                   className="ml-4 text-lg font-bold">
-                    Featured Games 10
+                    Featured Games
                   </Text>
                 <View className="pl-4">
                   <ScrollView horizontal showsHorizontalScrollIndicator={false}>
