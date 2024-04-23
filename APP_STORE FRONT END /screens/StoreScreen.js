@@ -155,7 +155,7 @@ export default function StoreScreen() {
               <Text
                   style={{color: storeColors.text}}
                   className="ml-4 text-lg font-bold">
-                    Top Action Games
+                    Top Action Games yes
               </Text>
               <TouchableOpacity className="mr-4">
                 <Text className="text-blue-600 font-bold">
