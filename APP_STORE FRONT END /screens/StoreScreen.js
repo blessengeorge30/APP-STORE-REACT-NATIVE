@@ -93,12 +93,12 @@ export default function StoreScreen() {
            
           {/* categories */}
           <View className="mt-3 space-y-4">
-            {/* <Text
+            <Text
               style={{color: storeColors.text}}
               className="ml-4 text-3xl font-bold"
             >
               Browse Games
-            </Text> */}
+            </Text>
             <View className="pl-4">
               <ScrollView horizontal showsHorizontalScrollIndicator={false}>
                 {
