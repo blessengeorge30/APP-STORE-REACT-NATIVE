@@ -6,18 +6,6 @@
 
   
 
-## Get Started
-
-install dev dependencies
-
-### `npm install` or `yarn install`
-
-## Then
-
-Run The app
-
-### `npm start` or `yarn start`
-
 
 <br />
 
